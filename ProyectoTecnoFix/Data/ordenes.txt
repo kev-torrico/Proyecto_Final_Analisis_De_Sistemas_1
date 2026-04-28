@@ -1,0 +1,4 @@
+5|Andres Castro|Monitor|Pixeles muertos|Entregado
+6|Valeria Pinto|Smartphone|Se reinicia solo|EnReparacion
+7|Jorge Salinas|Laptop|Lenta|Recepcionado
+8|Daniela Rivas|Impresora|Error de conexión|EnDiagnostico

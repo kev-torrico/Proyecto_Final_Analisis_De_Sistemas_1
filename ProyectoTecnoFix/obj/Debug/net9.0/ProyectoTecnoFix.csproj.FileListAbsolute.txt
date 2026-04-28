@@ -1,0 +1,14 @@
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\bin\Debug\net9.0\ProyectoTecnoFix.exe
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\bin\Debug\net9.0\ProyectoTecnoFix.deps.json
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\bin\Debug\net9.0\ProyectoTecnoFix.runtimeconfig.json
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\bin\Debug\net9.0\ProyectoTecnoFix.dll
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\bin\Debug\net9.0\ProyectoTecnoFix.pdb
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\obj\Debug\net9.0\ProyectoTecnoFix.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\obj\Debug\net9.0\ProyectoTecnoFix.AssemblyInfoInputs.cache
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\obj\Debug\net9.0\ProyectoTecnoFix.AssemblyInfo.cs
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\obj\Debug\net9.0\ProyectoTecnoFix.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\obj\Debug\net9.0\ProyectoTecnoFix.dll
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\obj\Debug\net9.0\refint\ProyectoTecnoFix.dll
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\obj\Debug\net9.0\ProyectoTecnoFix.pdb
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\obj\Debug\net9.0\ProyectoTecnoFix.genruntimeconfig.cache
+D:\ESCRITORIO\USIP MATERIAS\Taller de programación II\proyectoFinal\ProyectoTecnoFix\obj\Debug\net9.0\ref\ProyectoTecnoFix.dll

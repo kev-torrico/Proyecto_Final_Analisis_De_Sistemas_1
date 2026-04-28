@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Cliente": "Juan Perez",
+    "Equipo": "Laptop",
+    "Problema": "No enciende",
+    "Estado": 0
+  },
+  {
+    "Id": 2,
+    "Cliente": "Maria Lopez",
+    "Equipo": "Impresora",
+    "Problema": "No imprime",
+    "Estado": 2
+  }
+]
