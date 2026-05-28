@@ -8,7 +8,7 @@
   },
   {
     "Id": 2,
-    "Cliente": "Maria Lopez",
+    "Cliente": "Maria Gomez",
     "Equipo": "Impresora",
     "Problema": "No imprime",
     "Estado": 2

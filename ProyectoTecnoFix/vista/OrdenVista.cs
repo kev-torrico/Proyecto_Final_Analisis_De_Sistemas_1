@@ -1,4 +1,5 @@
 using System;
+using System.IO;
 using ProyectoTecnoFix.controlador;
 using ProyectoTecnoFix.enums;
 using ProyectoTecnoFix.modelo;
@@ -20,7 +21,13 @@ public class OrdenVista
             bool salir = false;
             while (!salir)
             {
-                Console.Clear();
+                try
+                {
+                    Console.Clear();
+                }
+                catch (IOException)
+                {
+                }
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("╔══════════════════════════════════════╗");
                 Console.WriteLine("║         TECNOFIX  -  ÓRDENES         ║");
@@ -43,7 +50,7 @@ public class OrdenVista
                 Console.WriteLine("  [0]  Salir");
                 Console.Write("\nOpción: ");
  
-                string opcion = Console.ReadLine();
+                string? opcion = Console.ReadLine();
                 Console.WriteLine();
  
                 switch (opcion)
@@ -105,7 +112,7 @@ public class OrdenVista
         {
             Console.WriteLine("Estados: Recepcionado | EnDiagnostico | EnReparacion | Finalizado | Entregado");
             Console.Write("Estado a buscar: ");
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine();
  
             if (!Enum.TryParse<EstadoOrden>(input, true, out EstadoOrden estado))
             {
@@ -122,7 +129,7 @@ public class OrdenVista
         public void MostrarPorCliente()
         {
             Console.Write("Nombre del cliente: ");
-            string nombre = Console.ReadLine();
+            string? nombre = Console.ReadLine();
  
             var resultado = _controlador.ObtenerPorCliente(nombre);
             Console.WriteLine($"\n── ÓRDENES DE '{nombre.ToUpper()}' ({resultado.Count}) ────");

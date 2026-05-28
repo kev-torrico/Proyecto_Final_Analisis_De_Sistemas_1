@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Cliente": "Kevin",
+    "Equipo": "computadora",
+    "Problema": "No funciona la bateria",
+    "Estado": 0
+  }
+]
