@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoTecnoFix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e2a355b6854857a449ecbf9546fa3bfaa7b9111")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+735566342198577cf67d3194944c7c840c08011d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoTecnoFix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoTecnoFix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
